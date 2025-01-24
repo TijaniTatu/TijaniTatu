@@ -1,11 +1,12 @@
+<div>
+<img align="right" height="150" src="9hqvgn.gif"  width="100%" />
+</div>
 <h1>Hi 👋, I'm Tijani</h1>
 <p>A passionate Tech Enthusiast</p>
 
 # 💫 About Me:
 🎮 I am a full-time gamer with 10 years of experience<br>🐱‍💻 I am currently improving mys skills in cyber-security<br>📗 Also learning about Algorithmic trading using ML and AI<br>👷 Currently working on mobile app development<br>🤖 Tech Enthusiast
-<div>
-<img align="right" height="150" src="9hqvgn.gif"  />
-</div>
+
 
 
 
