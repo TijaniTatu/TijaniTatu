@@ -5,7 +5,7 @@
 <p>A passionate Tech Enthusiast</p>
 
 # 💫 About Me:
-🎮 I am a full-time gamer with 10 years of experience<br>🐱‍💻 I am currently improving mys skills in cyber-security<br>📗 Also learning about Algorithmic trading using ML and AI<br>👷 Currently working on mobile app development<br>🤖 Tech Enthusiast
+🎮 I am a full-time gamer with 10 years of experience<br>🐱‍💻 I am currently improving my skills in cyber-security<br>📗 Also learning about Algorithmic trading using ML and AI<br>👷 Currently working on mobile app development<br>🤖 Tech Enthusiast
 
 
 
