@@ -5,7 +5,7 @@
 <p>A passionate Tech Enthusiast</p>
 
 # 💫 About Me:
-🎮 I am a full-time gamer with 10 years of experience<br>🐱‍💻 I am currently improving mys skills in cyber-security<br>📗 Also learning about Algorithmic trading using ML and AI<br>👷 Currently working on mobile app development<br>🤖 Tech Enthusiast
+🎮 I am a full-time gamer with 10 years of experience<br>🐱‍💻 I am currently improving my skills in cyber-security<br>📗 Also learning about Algorithmic trading using ML and AI<br>👷 Currently working on mobile app development<br>🤖 Tech Enthusiast
 
 
 
@@ -25,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
