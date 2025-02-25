@@ -1,5 +1,5 @@
 <div>
-<img align="right" height="150" src="9hqvgn.gif"  width="100%" />
+<img align="right" height="250" src="madara-uchiha.gif"  width="100%" />
 </div>
 <h1>Hi 👋, I'm Tijani</h1>
 <p>A passionate Tech Enthusiast</p>
